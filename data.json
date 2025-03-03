@@ -1,0 +1,7 @@
+[
+    { "title": "Total Orders", "value": 320, "icon": "📦" },
+    { "title": "Pending Orders", "value": 45, "icon": "⏳" },
+    { "title": "Completed Orders", "value": 250, "icon": "✅" },
+    { "title": "Cancelled Orders", "value": 25, "icon": "❌" }
+  ]
+  
